@@ -2562,6 +2562,72 @@ Xiaomi MiMo-V2.5-Pro 1.02T:
   hide_article_link: true
   tech_report:
     url: https://mimo.xiaomi.com/mimo-v2-5
+Xiaomi MiMo-V2.6-Flash-RL 309B:
+  company: Xiaomi
+  image: "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/mimo-2.6-flash.webp"
+  date: '2026-09-21'
+  summary: Omnimodal sparse MoE model with the MiMo-V2.5 text backbone, mixed-domain reinforcement learning, and a five-layer DFlash speculative decoder.
+  scale: 309B total, 15B active (4.9% active)
+  context_tokens: '1,048,576'
+  vocab_size: '152,576 (~152k)'
+  license_name: MIT License
+  license_url: https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Flash-RL/blob/main/README.md
+  decoder_type: Sparse omnimodal MoE
+  attention: GQA with sliding-window/global attention
+  layer_mix: '39 sliding-window + 9 global'
+  kv_cache_per_token_bf16: '217.5 KiB'
+  highlight: Uses 256 routed experts with top-8 routing, one dense prefix layer, no shared experts, and a 128-token sliding window.
+  aa_intelligence_index: 'N/A'
+  aai_profile: 'N/A'
+  aa_url: ''
+  related_concepts:
+    - gqa
+    - swa
+    - moe
+    - rmsnorm
+    - rope
+    - silu
+    - mtp
+  config:
+    repo: XiaomiMiMo/MiMo-V2.6-Flash-RL
+    label: config.json
+    url: https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Flash-RL/blob/main/config.json
+  hide_article_link: true
+  tech_report:
+    url: https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Flash-RL/resolve/main/MiMo_V2_6_technical_report.pdf
+Xiaomi MiMo-V2.6-Pro-RL 1.02T:
+  company: Xiaomi
+  image: "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/mimo-2.6-pro.webp"
+  date: '2026-09-21'
+  summary: Omnimodal sparse MoE model with the MiMo-V2.5-Pro text backbone, mixed-domain reinforcement learning, and a five-layer DFlash speculative decoder.
+  scale: 1.02T total, 42B active (4.1% active)
+  context_tokens: '1,048,576'
+  vocab_size: '152,576 (~152k)'
+  license_name: MIT License
+  license_url: https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-RL/blob/main/README.md
+  decoder_type: Sparse omnimodal MoE
+  attention: GQA with 6:1 sliding-window/global attention
+  layer_mix: '60 sliding-window + 10 global'
+  kv_cache_per_token_bf16: '350 KiB'
+  highlight: Uses 384 routed experts with top-8 routing, one dense prefix layer, no shared experts, and a 128-token sliding window.
+  aa_intelligence_index: '46.3'
+  aai_profile: 'N/A'
+  aa_url: https://artificialanalysis.ai/models/mimo-v2-6-pro
+  related_concepts:
+    - gqa
+    - swa
+    - moe
+    - rmsnorm
+    - rope
+    - silu
+    - mtp
+  config:
+    repo: XiaomiMiMo/MiMo-V2.6-Pro-RL
+    label: config.json
+    url: https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-RL/blob/main/config.json
+  hide_article_link: true
+  tech_report:
+    url: https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-RL/resolve/main/MiMo_V2_6_technical_report.pdf
 ZAYA1-8B:
   company: Zyphra
   image: "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/zaya1-8b.webp"

@@ -1,0 +1,505 @@
+{
+  "source_models_file": "../models.yml",
+  "model_count": 83,
+  "unique_image_count": 82,
+  "models": [
+    {
+      "model": "Arcee AI Trinity Large 400B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/arcee-ai-trinity-large-400b.webp",
+      "local_path": "images/architectures/arcee-ai-trinity-large-400b.webp",
+      "file": "arcee-ai-trinity-large-400b.webp"
+    },
+    {
+      "model": "DeepSeek R1",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/deepseek-v3-r1-671-billion.webp",
+      "local_path": "images/architectures/deepseek-v3-r1-671-billion.webp",
+      "file": "deepseek-v3-r1-671-billion.webp"
+    },
+    {
+      "model": "DeepSeek V3",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/deepseek-v3-r1-671-billion.webp",
+      "local_path": "images/architectures/deepseek-v3-r1-671-billion.webp",
+      "file": "deepseek-v3-r1-671-billion.webp"
+    },
+    {
+      "model": "DeepSeek V3.2",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/deepseek-v3-2-671b.webp",
+      "local_path": "images/architectures/deepseek-v3-2-671b.webp",
+      "file": "deepseek-v3-2-671b.webp"
+    },
+    {
+      "model": "DeepSeek V4-Pro",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/deepseek-v4-pro.webp",
+      "local_path": "images/architectures/deepseek-v4-pro.webp",
+      "file": "deepseek-v4-pro.webp"
+    },
+    {
+      "model": "DeepSeek V4-Flash",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/deepseek-v4-flash.webp",
+      "local_path": "images/architectures/deepseek-v4-flash.webp",
+      "file": "deepseek-v4-flash.webp"
+    },
+    {
+      "model": "GLM-4.5 355B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/glm-4-5-355b.webp",
+      "local_path": "images/architectures/glm-4-5-355b.webp",
+      "file": "glm-4-5-355b.webp"
+    },
+    {
+      "model": "GLM-4.5-Air",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/glm-4-5-air.webp",
+      "local_path": "images/architectures/glm-4-5-air.webp",
+      "file": "glm-4-5-air.webp"
+    },
+    {
+      "model": "GLM-4.7 355B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/glm-4-7-355b.webp",
+      "local_path": "images/architectures/glm-4-7-355b.webp",
+      "file": "glm-4-7-355b.webp"
+    },
+    {
+      "model": "GLM-5 744B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/glm-5-744b.webp",
+      "local_path": "images/architectures/glm-5-744b.webp",
+      "file": "glm-5-744b.webp"
+    },
+    {
+      "model": "GLM-5.1",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/glm-5-1.webp",
+      "local_path": "images/architectures/glm-5-1.webp",
+      "file": "glm-5-1.webp"
+    },
+    {
+      "model": "GLM-5.2",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/glm-5.2.webp",
+      "local_path": "images/architectures/glm-5.2.webp",
+      "file": "glm-5.2.webp"
+    },
+    {
+      "model": "GPT-2 XL 1.5B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/gpt-2-xl.webp",
+      "local_path": "images/architectures/gpt-2-xl.webp",
+      "file": "gpt-2-xl.webp"
+    },
+    {
+      "model": "GPT-OSS 120B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/gpt-oss-120b.webp",
+      "local_path": "images/architectures/gpt-oss-120b.webp",
+      "file": "gpt-oss-120b.webp"
+    },
+    {
+      "model": "GPT-OSS 20B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/gpt-oss-20b.webp",
+      "local_path": "images/architectures/gpt-oss-20b.webp",
+      "file": "gpt-oss-20b.webp"
+    },
+    {
+      "model": "Gemma 3 270M",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/gemma-3-270m.webp",
+      "local_path": "images/architectures/gemma-3-270m.webp",
+      "file": "gemma-3-270m.webp"
+    },
+    {
+      "model": "Gemma 3 27B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/gemma-3-27b.webp",
+      "local_path": "images/architectures/gemma-3-27b.webp",
+      "file": "gemma-3-27b.webp"
+    },
+    {
+      "model": "Gemma 4 26B-A4B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/gemma-4-26b-a4b.webp",
+      "local_path": "images/architectures/gemma-4-26b-a4b.webp",
+      "file": "gemma-4-26b-a4b.webp"
+    },
+    {
+      "model": "Gemma 4 31B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/gemma-4-31b.webp",
+      "local_path": "images/architectures/gemma-4-31b.webp",
+      "file": "gemma-4-31b.webp"
+    },
+    {
+      "model": "Gemma 4 12B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/gemma-4-12b.webp",
+      "local_path": "images/architectures/gemma-4-12b.webp",
+      "file": "gemma-4-12b.webp"
+    },
+    {
+      "model": "Gemma 4 E2B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/gemma-4-e2b.webp",
+      "local_path": "images/architectures/gemma-4-e2b.webp",
+      "file": "gemma-4-e2b.webp"
+    },
+    {
+      "model": "Gemma 4 E4B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/gemma-4-e4b.webp",
+      "local_path": "images/architectures/gemma-4-e4b.webp",
+      "file": "gemma-4-e4b.webp"
+    },
+    {
+      "model": "Granite 4.1 30B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/granite-4.1.webp",
+      "local_path": "images/architectures/granite-4.1.webp",
+      "file": "granite-4.1.webp"
+    },
+    {
+      "model": "Grok 2.5 270B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/grok-2-5-270b.webp",
+      "local_path": "images/architectures/grok-2-5-270b.webp",
+      "file": "grok-2-5-270b.webp"
+    },
+    {
+      "model": "Tencent Hy3-preview 295B-A21B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/tencent-hy3.webp",
+      "local_path": "images/architectures/tencent-hy3.webp",
+      "file": "tencent-hy3.webp"
+    },
+    {
+      "model": "INTELLECT-3",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/intellect-3.webp",
+      "local_path": "images/architectures/intellect-3.webp",
+      "file": "intellect-3.webp"
+    },
+    {
+      "model": "Kimi K2",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/kimi-k2-1-trillion.webp",
+      "local_path": "images/architectures/kimi-k2-1-trillion.webp",
+      "file": "kimi-k2-1-trillion.webp"
+    },
+    {
+      "model": "Kimi K2.5",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/kimi-k2-5.webp",
+      "local_path": "images/architectures/kimi-k2-5.webp",
+      "file": "kimi-k2-5.webp"
+    },
+    {
+      "model": "Kimi K2.6",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/kimi-k2-6.webp",
+      "local_path": "images/architectures/kimi-k2-6.webp",
+      "file": "kimi-k2-6.webp"
+    },
+    {
+      "model": "Kimi K2.7 Code",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/kimi-k2-7-code.webp",
+      "local_path": "images/architectures/kimi-k2-7-code.webp",
+      "file": "kimi-k2-7-code.webp"
+    },
+    {
+      "model": "Kimi Linear 48B-A3B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/kimi-linear-48b-a3b.webp",
+      "local_path": "images/architectures/kimi-linear-48b-a3b.webp",
+      "file": "kimi-linear-48b-a3b.webp"
+    },
+    {
+      "model": "Laguna XS.2",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/laguna-xs2.webp",
+      "local_path": "images/architectures/laguna-xs2.webp",
+      "file": "laguna-xs2.webp"
+    },
+    {
+      "model": "LFM2.5 350M",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/lfm2-5-350m.webp",
+      "local_path": "images/architectures/lfm2-5-350m.webp",
+      "file": "lfm2-5-350m.webp"
+    },
+    {
+      "model": "LFM2.5 1.2B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/lfm2-5-1-2b.webp",
+      "local_path": "images/architectures/lfm2-5-1-2b.webp",
+      "file": "lfm2-5-1-2b.webp"
+    },
+    {
+      "model": "LFM2.5 8B-A1B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/lfm2-5-8b-a1b.webp",
+      "local_path": "images/architectures/lfm2-5-8b-a1b.webp",
+      "file": "lfm2-5-8b-a1b.webp"
+    },
+    {
+      "model": "Ling 2.5 1T",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/ling-2-5-1t.webp",
+      "local_path": "images/architectures/ling-2-5-1t.webp",
+      "file": "ling-2-5-1t.webp"
+    },
+    {
+      "model": "Ling 2.6 1T",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/ling-2-6-1t.webp",
+      "local_path": "images/architectures/ling-2-6-1t.webp",
+      "file": "ling-2-6-1t.webp"
+    },
+    {
+      "model": "LongCat-Flash-Lite 68.5B-A3B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/longcat-flash-lite-68-5b-a3b.webp",
+      "local_path": "images/architectures/longcat-flash-lite-68-5b-a3b.webp",
+      "file": "longcat-flash-lite-68-5b-a3b.webp"
+    },
+    {
+      "model": "Llama 3.2 1B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/llama-3-2-1b.webp",
+      "local_path": "images/architectures/llama-3-2-1b.webp",
+      "file": "llama-3-2-1b.webp"
+    },
+    {
+      "model": "Llama 3 8B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/llama-3-8b.webp",
+      "local_path": "images/architectures/llama-3-8b.webp",
+      "file": "llama-3-8b.webp"
+    },
+    {
+      "model": "Llama 3.2 3B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/llama-3-2-3b.webp",
+      "local_path": "images/architectures/llama-3-2-3b.webp",
+      "file": "llama-3-2-3b.webp"
+    },
+    {
+      "model": "Llama 4 Maverick",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/llama-4-maverick-400b.webp",
+      "local_path": "images/architectures/llama-4-maverick-400b.webp",
+      "file": "llama-4-maverick-400b.webp"
+    },
+    {
+      "model": "JetBrains Mellum2 Thinking 12B-A2.5B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/mellum2.webp",
+      "local_path": "images/architectures/mellum2.webp",
+      "file": "mellum2.webp"
+    },
+    {
+      "model": "MiniMax M2 230B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/minimax-m2-230b.webp",
+      "local_path": "images/architectures/minimax-m2-230b.webp",
+      "file": "minimax-m2-230b.webp"
+    },
+    {
+      "model": "MiniMax M2.5 230B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/minimax-m2-5-230b.webp",
+      "local_path": "images/architectures/minimax-m2-5-230b.webp",
+      "file": "minimax-m2-5-230b.webp"
+    },
+    {
+      "model": "MiniMax M2.7 230B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/minimax-m2-7-230b.webp",
+      "local_path": "images/architectures/minimax-m2-7-230b.webp",
+      "file": "minimax-m2-7-230b.webp"
+    },
+    {
+      "model": "MiniMax M3 428B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/minimax-m3.webp",
+      "local_path": "images/architectures/minimax-m3.webp",
+      "file": "minimax-m3.webp"
+    },
+    {
+      "model": "Mistral Large 3",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/mistral-3-large-673-billion.webp",
+      "local_path": "images/architectures/mistral-3-large-673-billion.webp",
+      "file": "mistral-3-large-673-billion.webp"
+    },
+    {
+      "model": "Mistral Small 3.1 24B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/mistral-3-1-small-24b.webp",
+      "local_path": "images/architectures/mistral-3-1-small-24b.webp",
+      "file": "mistral-3-1-small-24b.webp"
+    },
+    {
+      "model": "Mistral Small 4",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/mistral-small-4.webp",
+      "local_path": "images/architectures/mistral-small-4.webp",
+      "file": "mistral-small-4.webp"
+    },
+    {
+      "model": "Nanbeige 4.1 3B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/nanbeige-4-1-3b.webp",
+      "local_path": "images/architectures/nanbeige-4-1-3b.webp",
+      "file": "nanbeige-4-1-3b.webp"
+    },
+    {
+      "model": "Nemotron 3 Nano 30B-A3B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/nemotron-3-nano-30b-a3b.webp",
+      "local_path": "images/architectures/nemotron-3-nano-30b-a3b.webp",
+      "file": "nemotron-3-nano-30b-a3b.webp"
+    },
+    {
+      "model": "Nemotron 3 Nano 4B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/nemotron-3-nano-4b.webp",
+      "local_path": "images/architectures/nemotron-3-nano-4b.webp",
+      "file": "nemotron-3-nano-4b.webp"
+    },
+    {
+      "model": "Nemotron 3 Super 120B-A12B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/nemotron-3-super-120b-a12b.webp",
+      "local_path": "images/architectures/nemotron-3-super-120b-a12b.webp",
+      "file": "nemotron-3-super-120b-a12b.webp"
+    },
+    {
+      "model": "Nemotron 3 Ultra 550B-A55B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/nemotron-3-ultra-550b-a55b.webp",
+      "local_path": "images/architectures/nemotron-3-ultra-550b-a55b.webp",
+      "file": "nemotron-3-ultra-550b-a55b.webp"
+    },
+    {
+      "model": "OLMo 2 7B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/olmo-2-7b.webp",
+      "local_path": "images/architectures/olmo-2-7b.webp",
+      "file": "olmo-2-7b.webp"
+    },
+    {
+      "model": "OLMo 3 32B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/olmo-3-32b.webp",
+      "local_path": "images/architectures/olmo-3-32b.webp",
+      "file": "olmo-3-32b.webp"
+    },
+    {
+      "model": "OLMo 3 7B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/olmo-3-7b.webp",
+      "local_path": "images/architectures/olmo-3-7b.webp",
+      "file": "olmo-3-7b.webp"
+    },
+    {
+      "model": "Phi-4",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/phi-4.webp",
+      "local_path": "images/architectures/phi-4.webp",
+      "file": "phi-4.webp"
+    },
+    {
+      "model": "Qwen3 0.6B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/qwen3-0-6b.webp",
+      "local_path": "images/architectures/qwen3-0-6b.webp",
+      "file": "qwen3-0-6b.webp"
+    },
+    {
+      "model": "Qwen3 235B-A22B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/qwen3-235b-a22b.webp",
+      "local_path": "images/architectures/qwen3-235b-a22b.webp",
+      "file": "qwen3-235b-a22b.webp"
+    },
+    {
+      "model": "Qwen3 30B-A3B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/qwen3-30b-a3b.webp",
+      "local_path": "images/architectures/qwen3-30b-a3b.webp",
+      "file": "qwen3-30b-a3b.webp"
+    },
+    {
+      "model": "Qwen3 32B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/qwen3-32b.webp",
+      "local_path": "images/architectures/qwen3-32b.webp",
+      "file": "qwen3-32b.webp"
+    },
+    {
+      "model": "Qwen3 4B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/qwen3-4b.webp",
+      "local_path": "images/architectures/qwen3-4b.webp",
+      "file": "qwen3-4b.webp"
+    },
+    {
+      "model": "Qwen3 8B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/qwen3-8b.webp",
+      "local_path": "images/architectures/qwen3-8b.webp",
+      "file": "qwen3-8b.webp"
+    },
+    {
+      "model": "Qwen3 Next 80B-A3B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/qwen3-next-80b-a3b.webp",
+      "local_path": "images/architectures/qwen3-next-80b-a3b.webp",
+      "file": "qwen3-next-80b-a3b.webp"
+    },
+    {
+      "model": "Qwen3 Coder Flash 30B-A3B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/qwen3-coder-flash-30b-a3b-mixture-of-experts.webp",
+      "local_path": "images/architectures/qwen3-coder-flash-30b-a3b-mixture-of-experts.webp",
+      "file": "qwen3-coder-flash-30b-a3b-mixture-of-experts.webp"
+    },
+    {
+      "model": "Qwen3.5 397B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/qwen3-5-397b.webp",
+      "local_path": "images/architectures/qwen3-5-397b.webp",
+      "file": "qwen3-5-397b.webp"
+    },
+    {
+      "model": "Qwen3.6 35B-A3B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/qwen3-6-35b-a3b.webp",
+      "local_path": "images/architectures/qwen3-6-35b-a3b.webp",
+      "file": "qwen3-6-35b-a3b.webp"
+    },
+    {
+      "model": "Qwen3.6 27B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/qwen3-6-27b.webp",
+      "local_path": "images/architectures/qwen3-6-27b.webp",
+      "file": "qwen3-6-27b.webp"
+    },
+    {
+      "model": "Sarvam 105B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/sarvam-105b.webp",
+      "local_path": "images/architectures/sarvam-105b.webp",
+      "file": "sarvam-105b.webp"
+    },
+    {
+      "model": "Sarvam 30B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/sarvam-30b.webp",
+      "local_path": "images/architectures/sarvam-30b.webp",
+      "file": "sarvam-30b.webp"
+    },
+    {
+      "model": "SmolLM3 3B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/smollm3-3b.webp",
+      "local_path": "images/architectures/smollm3-3b.webp",
+      "file": "smollm3-3b.webp"
+    },
+    {
+      "model": "Step 3.5 Flash 196B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/step-3-5-flash-196b.webp",
+      "local_path": "images/architectures/step-3-5-flash-196b.webp",
+      "file": "step-3-5-flash-196b.webp"
+    },
+    {
+      "model": "Tiny Aya 3.35B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/tiny-aya-3-35b.webp",
+      "local_path": "images/architectures/tiny-aya-3-35b.webp",
+      "file": "tiny-aya-3-35b.webp"
+    },
+    {
+      "model": "VibeThinker-3B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/vibethinker-3b.webp",
+      "local_path": "images/architectures/vibethinker-3b.webp",
+      "file": "vibethinker-3b.webp"
+    },
+    {
+      "model": "Xiaomi MiMo-V2-Flash 309B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/xiaomi-mimo-v2-flash-309b.webp",
+      "local_path": "images/architectures/xiaomi-mimo-v2-flash-309b.webp",
+      "file": "xiaomi-mimo-v2-flash-309b.webp"
+    },
+    {
+      "model": "Xiaomi MiMo-V2.5 310B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/xiaomi-mimo-v2-5-310b.webp",
+      "local_path": "images/architectures/xiaomi-mimo-v2-5-310b.webp",
+      "file": "xiaomi-mimo-v2-5-310b.webp"
+    },
+    {
+      "model": "Xiaomi MiMo-V2.5-Pro 1.02T",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/xiaomi-mimo25-pro.webp",
+      "local_path": "images/architectures/xiaomi-mimo25-pro.webp",
+      "file": "xiaomi-mimo25-pro.webp"
+    },
+    {
+      "model": "ZAYA1-8B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/zaya1-8b.webp",
+      "local_path": "images/architectures/zaya1-8b.webp",
+      "file": "zaya1-8b.webp"
+    },
+    {
+      "model": "North Mini Code 30B-A3B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/north-mini-code.webp",
+      "local_path": "images/architectures/north-mini-code.webp",
+      "file": "north-mini-code.webp"
+    },
+    {
+      "model": "Command A+ 218B-A25B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/command-a-plus.webp",
+      "local_path": "images/architectures/command-a-plus.webp",
+      "file": "command-a-plus.webp"
+    },
+    {
+      "model": "xLSTM 7B",
+      "source_url": "https://sebastianraschka.com/llm-architecture-gallery/images/architectures/xlstm-7b.webp",
+      "local_path": "images/architectures/xlstm-7b.webp",
+      "file": "xlstm-7b.webp"
+    }
+  ]
+}
